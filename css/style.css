@@ -42,7 +42,7 @@ html,body{
 }
 .music > img.play{
 	-webkit-animation: music_disc 4s linear infinite;
-	  -moz-appearance: music_disc 4s linear infinite;
+	   -moz-animation: music_disc 4s linear infinite;
 	    -ms-animation: music_disc 4s linear infinite;
 	     -o-animation: music_disc 4s linear infinite;
 	        animation: music_disc 4s linear infinite;
